@@ -24,7 +24,9 @@ Hey!, I'm Suryanshu Singh, a Passionate Cyber Security and Tech Enthusiast from 
 <code><img height="35"
     src="https://img.icons8.com/color/2x/python.png"></code>
 <code><img height="35"
-    src="https://img.icons8.com/color/2x/c-programming.png"></code>
+    src="https://img.icons8.com/color/2x/dart.png"></code>
+<code><img height="35"
+    src="https://img.icons8.com/color/2x/c-plus-plus-logo.png"></code>
 <code><img height="35"
     src="https://img.icons8.com/plasticine/2x/bash.png"></code> 
 <code><img height="35"
