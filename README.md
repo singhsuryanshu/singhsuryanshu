@@ -12,8 +12,8 @@
 <br />
 <br />
 
-Hey!, I'm Suryanshu Singh, a Passionate Cyber Security and Tech Enthusiast from India.❤️
-- 🎓 I'm currently a 2nd year CSE Student at ABES Engineering College, Ghaziabad
+Hey!, I'm Suryanshu Singh, a Passionate Tech Enthusiast from India.❤️
+- 🎓 I'm currently a 3rd year CSE Student at ABES Engineering College, Ghaziabad
 - 🔎 I'm currently learning Flutter alongwith Data Structures and Algorithms
 - 💬 Ask me about anything [**here!**](https://github.com/singhsuryanshu/singhsuryanshu/issues)
 
